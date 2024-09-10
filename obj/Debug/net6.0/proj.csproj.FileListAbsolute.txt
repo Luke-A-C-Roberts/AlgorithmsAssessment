@@ -1,0 +1,15 @@
+/home/luke/Documents/newproj/proj/bin/Debug/net6.0/proj
+/home/luke/Documents/newproj/proj/bin/Debug/net6.0/proj.deps.json
+/home/luke/Documents/newproj/proj/bin/Debug/net6.0/proj.runtimeconfig.json
+/home/luke/Documents/newproj/proj/bin/Debug/net6.0/proj.dll
+/home/luke/Documents/newproj/proj/bin/Debug/net6.0/proj.pdb
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/proj.csproj.AssemblyReference.cache
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/proj.GeneratedMSBuildEditorConfig.editorconfig
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/proj.AssemblyInfoInputs.cache
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/proj.AssemblyInfo.cs
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/proj.csproj.CoreCompileInputs.cache
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/proj.dll
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/refint/proj.dll
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/proj.pdb
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/proj.genruntimeconfig.cache
+/home/luke/Documents/newproj/proj/obj/Debug/net6.0/ref/proj.dll
